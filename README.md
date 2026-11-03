@@ -84,4 +84,8 @@ Taking a moment to reflect is not standing still. It's how we make sure we move 
 
 ## This will change
 
-Change is easy, so we don't wait to make it. If we didn't do well today, we do better tomorrow. That goes for this manifest too. Challenge it, and change it when we learn something new.
+Change is easy, so we don't wait to make it. If we didn't do well today, we do better tomorrow. That goes for this too. Challenge it, and change it when we learn something new.
+
+---
+
+Copy it, reuse it, reword it however you want. No credit needed.
