@@ -1,6 +1,6 @@
 # How I work
 
-How I believe we should work together
+How I believe we should work together. My own views, nobody else's. Take what fits, leave the rest.
 
 ## How we build and ship
 
